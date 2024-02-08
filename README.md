@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi,I'm PMA213X #
 
-<!--
-**PMA213X/PMA213X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-College Students
 
-Here are some ideas to get you started:
+-Java/C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-[]()[Blogger](https://pma213x.github.io/ "unfinished")**(unfinished)**
+
+-Railfan/aviation enthusiast
+
+
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=PMA213X)]()
+
