@@ -8,7 +8,7 @@
 
 ![PrismMD11.png](https://raw.githubusercontent.com/PMA213X/PMA213X/refs/heads/main/PrismMD11.png)
 
-![Hihi2.webp](https://raw.githubusercontent.com/PMA213X/PMA213X/main/Hihi2.webp)
+![Hihi2.webp](https://github.com/PMA213X/PMA213X/blob/main/HIhi2.webp)
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=PMA213X)]()
 
